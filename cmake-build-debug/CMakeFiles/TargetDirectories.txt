@@ -1,0 +1,3 @@
+C:/Users/khachaturov/CLionProjects/ardu/cmake-build-debug/CMakeFiles/ardu.dir
+C:/Users/khachaturov/CLionProjects/ardu/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/khachaturov/CLionProjects/ardu/cmake-build-debug/CMakeFiles/rebuild_cache.dir
